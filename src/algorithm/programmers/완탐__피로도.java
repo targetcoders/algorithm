@@ -1,7 +1,7 @@
 package algorithm.programmers;
 
 // Programmers 87946 - 피로도
-public class DFS__피로도 {
+public class 완탐__피로도 {
 
     private int answer = -1;
     private boolean[] visited;
